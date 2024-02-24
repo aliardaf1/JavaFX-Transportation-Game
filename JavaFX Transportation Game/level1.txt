@@ -1,0 +1,9 @@
+City,Istanbul,1,1
+City,Adana,75,2
+City,Mersin,17,3
+Fixed,15
+Fixed,16
+Passenger,39,2,1
+Passenger,10,3,1
+Passenger,5,2,3
+Vehicle,1,5

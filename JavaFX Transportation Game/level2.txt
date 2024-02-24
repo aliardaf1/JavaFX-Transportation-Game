@@ -1,0 +1,17 @@
+City,İstanbul,67,2
+City,Bolu,15,3
+City,Bursa,1,4
+City,Erzincan,71,5
+City,Mersin,28,6
+Passenger,11,3,2
+Passenger,17,3,4
+Passenger,21,4,5
+Passenger,12,2,5
+Passenger,15,2,5
+Passenger,8,2,6
+Passenger,11,5,4
+Passenger,7,5,2
+Vehicle,2,15
+Fixed,12
+Fixed,46
+Fixed,47
